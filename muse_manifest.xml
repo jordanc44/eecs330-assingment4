@@ -1,0 +1,50 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://jordanc44.github.io" resolutions="1x" timestamp="1486957817035">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="listen-results.css" crc="4091810322" ref="listen-results"/>
+    <file name="about-us.css" crc="4141853940" ref="about-us"/>
+    <file name="start-listening.css" crc="3949807434" ref="start-listening"/>
+    <file name="stop-listening.css" crc="3780436616" ref="stop-listening"/>
+    <file name="upload-a-file.css" crc="3923128924" ref="upload-a-file"/>
+    <file name="log-in.css" crc="4230532247" ref="log-in"/>
+    <file name="index.css" crc="3966592326" ref="index"/>
+    <file name="transcript.css" crc="101514067" ref="transcript"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript"/>
+    <file name="museutils.js" crc="4148063285" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript"/>
+    <file name="whatinput.js" crc="86476730" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript"/>
+    <file name="museconfig.js" crc="4179431180" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="start-listening:listen-results:stop-listening:index:upload-a-file:transcript"/>
+    <file name="jquery.watch.js" crc="437028206" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript"/>
+    <file name="html5shiv.js" crc="4241844378" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript"/>
+    <file name="require.js" crc="4159430777" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript"/>
+    <file name="webpro.js" crc="3986320349" ref="upload-a-file:log-in"/>
+    <file name="form_check.php" crc="303648844" ref="upload-a-file"/>
+    <file name="form_throttle.php" crc="236764551" ref="upload-a-file"/>
+    <file name="form_process.php" crc="4272079531" ref="upload-a-file"/>
+    <file name="form-u1868.php" crc="4128108742" ref="upload-a-file"/>
+    <file name="form-u2586.php" crc="3953244009" ref="log-in"/>
+  </folder>
+  <folder name="images">
+    <file name="u1975-4.png" crc="3826565702" ref="start-listening"/>
+    <file name="u290-4.png" crc="3806998721" ref="listen-results"/>
+    <file name="u1981-4.png" crc="3826565702" ref="listen-results"/>
+    <file name="u2633-16.png" crc="4181566266" ref="listen-results"/>
+    <file name="u2647-7.png" crc="199493338" ref="listen-results"/>
+    <file name="u1978-4.png" crc="3826565702" ref="stop-listening"/>
+    <file name="u483-4.png" crc="400527874" ref="index"/>
+    <file name="u1984-4.png" crc="3826565702" ref="upload-a-file"/>
+    <file name="u2734-4.png" crc="3983772052" ref="transcript"/>
+    <file name="u2741-17.png" crc="3986029066" ref="transcript"/>
+    <file name="u2744-15.png" crc="376943712" ref="transcript"/>
+  </folder>
+  <file name="start-listening.html" crc="60576744" seo="true" mt="1486665759817" redirect="true"/>
+  <file name="listen-results.html" crc="4267685786" seo="true" mt="1486955413029" redirect="true"/>
+  <file name="stop-listening.html" crc="3847904380" seo="true" mt="1486789954604" redirect="true"/>
+  <file name="index.html" crc="4201315221" seo="true" mt="1486789843741" redirect="true"/>
+  <file name="upload-a-file.html" crc="4215748905" seo="true" mt="1486672064335" redirect="true"/>
+  <file name="about-us.html" crc="178342345" seo="true" mt="1486665015445" redirect="true"/>
+  <file name="log-in.html" crc="4043069634" seo="true" mt="1486677003528" redirect="true"/>
+  <file name="transcript.html" crc="365293134" seo="true" mt="1486789871045" redirect="true"/>
+</manifest>
