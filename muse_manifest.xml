@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="smoothtalking.com" resolutions="1x" timestamp="1487282019526">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="smoothtalking.com" resolutions="1x" timestamp="1487282298832">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4243799498" ref="index"/>
+    <file name="index.css" crc="424206114" ref="index"/>
     <file name="start-listening.css" crc="4292011547" ref="start-listening"/>
     <file name="upload-a-file.css" crc="432309902" ref="upload-a-file"/>
     <file name="log-in.css" crc="448914885" ref="log-in"/>
@@ -33,7 +33,7 @@
   <file name="start-listening.html" crc="3830407389" seo="true" mt="1487280912462" redirect="true"/>
   <file name="listen-results.html" crc="375588375" seo="true" mt="1487281128368" redirect="true"/>
   <file name="stop-listening.html" crc="4027104432" seo="true" mt="1487280851567" redirect="true"/>
-  <file name="index.html" crc="4053654144" seo="true" mt="1487281982906" redirect="true"/>
+  <file name="index.html" crc="54945500" seo="true" mt="1487282285404" redirect="true"/>
   <file name="upload-a-file.html" crc="8768695" seo="true" mt="1487280725117" redirect="true"/>
   <file name="about-us.html" crc="3770557841" seo="true" mt="1487281378676" redirect="true"/>
   <file name="log-in.html" crc="4089401127" seo="true" mt="1487281826392" redirect="true"/>
