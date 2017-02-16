@@ -11,13 +11,13 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "webpro.js", "log-in.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "log-in.css"], "outOfDate":[]};
 </script>
   
   <title>Log In</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/log-in.css?crc=4230532247" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/log-in.css?crc=448914885" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -26,35 +26,31 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="Button rounded-corners clearfix grpelem" id="buttonu2584"><!-- container box -->
-    <div class="clearfix grpelem" id="u2585-4"><!-- content -->
-     <p>Log in with Facebook</p>
+   <div class="clearfix grpelem" id="pmenuu3204"><!-- column -->
+    <nav class="MenuBar rounded-corners clearfix colelem" id="menuu3204"><!-- horizontal box -->
+     <div class="MenuItemContainer borderbox clearfix grpelem" id="u3212"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox shadow rounded-corners clearfix colelem" id="u3215" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u3218-4"><!-- content --><p>Home</p></div></a>
+     </div>
+     <div class="MenuItemContainer borderbox clearfix grpelem" id="u3205"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox shadow rounded-corners clearfix colelem" id="u3206" href="about-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u3207-4"><!-- content --><p>About Us</p></div></a>
+     </div>
+    </nav>
+    <div class="Button rounded-corners clearfix colelem" id="buttonu2584"><!-- container box -->
+     <div class="clearfix grpelem" id="u2585-4"><!-- content -->
+      <p>Log in with Facebook</p>
+     </div>
     </div>
    </div>
-   <form class="form-grp clearfix grpelem" id="widgetu2586" method="post" enctype="multipart/form-data" action="scripts/form-u2586.php"><!-- none box -->
-    <div class="fld-grp clearfix grpelem" id="widgetu2592" data-required="true" data-type="email"><!-- none box -->
-     <label class="fld-label actAsDiv clearfix grpelem" id="u2593-4" for="widgetu2592_input"><!-- content --><span class="actAsPara">Email:</span></label>
-     <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u2594-4"><!-- content --><input class="wrapped-input" type="email" spellcheck="false" id="widgetu2592_input" name="Email" tabindex="1"/><label class="wrapped-input fld-prompt" id="widgetu2592_prompt" for="widgetu2592_input"><span class="actAsPara">Enter Email</span></label></span>
+   <div class="rounded-corners grpelem" id="u3202"><!-- simple frame --></div>
+   <div class="clearfix grpelem" id="pu3203-4"><!-- column -->
+    <img class="colelem" id="u3203-4" alt="Smooth Talking" src="images/u3203-4.png?crc=520502638" data-image-width="454"/><!-- rasterized frame -->
+    <div class="colelem" id="u3192"><!-- custom html -->
+     <form>
+ Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" rows="4"><br>
+ Password:&nbsp;<input type="text" ><br>
+</form>
     </div>
-    <div class="clearfix grpelem" id="u2597-4"><!-- content -->
-     <p>Submitting Form...</p>
-    </div>
-    <div class="clearfix grpelem" id="u2598-4"><!-- content -->
-     <p>The server encountered an error.</p>
-    </div>
-    <div class="clearfix grpelem" id="u2596-4"><!-- content -->
-     <p>Form received.</p>
-    </div>
-    <button class="submit-btn NoWrap rounded-corners clearfix grpelem" id="u2591-4" type="submit" value="Submit" tabindex="3"><!-- content -->
-     <div style="margin-top:-11px;height:11px;">
-      <p>Submit</p>
-     </div>
-    </button>
-    <div class="fld-grp clearfix grpelem" id="widgetu2587" data-required="true"><!-- none box -->
-     <label class="fld-label actAsDiv clearfix grpelem" id="u2589-4" for="widgetu2587_input"><!-- content --><span class="actAsPara">Password:</span></label>
-     <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u2590-4"><!-- content --><input class="wrapped-input" type="text" id="widgetu2587_input" name="custom_U2587" tabindex="2"/><label class="wrapped-input fld-prompt" id="widgetu2587_prompt" for="widgetu2587_input"><span class="actAsPara">Enter Text</span></label></span>
-    </div>
-   </form>
+   </div>
    <div class="verticalspacer" data-offset-top="392" data-content-above-spacer="391" data-content-below-spacer="108"></div>
   </div>
   <!-- Other scripts -->
@@ -63,12 +59,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","webpro","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.initWidget('#widgetu2586', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu2586 */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
