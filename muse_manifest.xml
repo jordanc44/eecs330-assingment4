@@ -1,28 +1,42 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="smoothtalking.com" resolutions="1x" timestamp="1487625147136">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="smoothtalking.com" resolutions="1x" timestamp="1487899447504">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="447472467" ref="index"/>
-    <file name="start-listening.css" crc="4292011547" ref="start-listening"/>
-    <file name="upload-a-file.css" crc="432309902" ref="upload-a-file"/>
-    <file name="log-in.css" crc="448914885" ref="log-in"/>
-    <file name="listen-results.css" crc="3950129832" ref="listen-results"/>
-    <file name="transcript.css" crc="61746087" ref="transcript"/>
-    <file name="about-us.css" crc="4089672966" ref="about-us"/>
-    <file name="stop-listening.css" crc="511971094" ref="stop-listening"/>
-    <file name="listen-results-copy.css" crc="4133886097" ref="listen-results-copy"/>
-    <file name="stop-listening-copy.css" crc="4203655576" ref="stop-listening-copy"/>
-    <file name="transcript-copy.css" crc="296218299" ref="transcript-copy"/>
-    <file name="start-listening-copy.css" crc="4228940666" ref="start-listening-copy"/>
+    <file name="index.css" crc="3910986589" ref="index"/>
+    <file name="start-listening.css" crc="419363114" ref="start-listening"/>
+    <file name="upload-a-file.css" crc="114061755" ref="upload-a-file"/>
+    <file name="log-in.css" crc="4216223146" ref="log-in"/>
+    <file name="listen-results.css" crc="536817228" ref="listen-results"/>
+    <file name="transcript.css" crc="3959178869" ref="transcript"/>
+    <file name="about-us.css" crc="4222900931" ref="about-us"/>
+    <file name="stop-listening.css" crc="3858085165" ref="stop-listening"/>
+    <file name="listen-results-copy.css" crc="96557487" ref="listen-results-copy"/>
+    <file name="stop-listening-copy.css" crc="3960801934" ref="stop-listening-copy"/>
+    <file name="transcript-copy.css" crc="4269133987" ref="transcript-copy"/>
+    <file name="start-listening-copy.css" crc="4159703020" ref="start-listening-copy"/>
+    <file name="start-lis-2-login.css" crc="277329678" ref="start-lis-2-login"/>
+    <file name="stop-2-log.css" crc="213735249" ref="stop-2-log"/>
+    <file name="stop-lis-1-login.css" crc="3928539158" ref="stop-lis-1-login"/>
+    <file name="profile-2.css" crc="504732846" ref="profile-2"/>
+    <file name="profile-1.css" crc="3810526973" ref="profile-1"/>
+    <file name="profile.css" crc="4123728857" ref="profile"/>
+    <file name="upload-a-file-login.css" crc="149453294" ref="upload-a-file-login"/>
+    <file name="results-1-log.css" crc="390316211" ref="results-1-log"/>
+    <file name="login-home.css" crc="3933055237" ref="login-home"/>
+    <file name="about-us-copy.css" crc="4113419504" ref="about-us-copy"/>
+    <file name="trans-2-log.css" crc="447409332" ref="trans-2-log"/>
+    <file name="transcript-1-log.css" crc="3793417821" ref="transcript-1-log"/>
+    <file name="start-listening-login.css" crc="129314101" ref="start-listening-login"/>
+    <file name="res-log-2.css" crc="4163276691" ref="res-log-2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy"/>
-    <file name="museutils.js" crc="4148063285" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy"/>
-    <file name="museconfig.js" crc="4179431180" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy"/>
-    <file name="jquery.musemenu.js" crc="3765830709" ref="start-listening:listen-results:stop-listening:index:upload-a-file:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy"/>
-    <file name="jquery.watch.js" crc="437028206" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy"/>
-    <file name="html5shiv.js" crc="4241844378" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy"/>
-    <file name="require.js" crc="4159430777" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy:login-home:about-us-copy:start-listening-login:upload-a-file-login:start-lis-2-login:stop-2-log:res-log-2:trans-2-log:stop-lis-1-login:results-1-log:transcript-1-log:profile:profile-1:profile-2"/>
+    <file name="museutils.js" crc="4148063285" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy:login-home:about-us-copy:start-listening-login:upload-a-file-login:start-lis-2-login:stop-2-log:res-log-2:trans-2-log:stop-lis-1-login:results-1-log:transcript-1-log:profile:profile-1:profile-2"/>
+    <file name="whatinput.js" crc="86476730" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy:login-home:about-us-copy:start-listening-login:upload-a-file-login:start-lis-2-login:stop-2-log:res-log-2:trans-2-log:stop-lis-1-login:results-1-log:transcript-1-log:profile:profile-1:profile-2"/>
+    <file name="museconfig.js" crc="4179431180" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy:login-home:about-us-copy:start-listening-login:upload-a-file-login:start-lis-2-login:stop-2-log:res-log-2:trans-2-log:stop-lis-1-login:results-1-log:transcript-1-log:profile:profile-1:profile-2"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="start-listening:listen-results:stop-listening:index:upload-a-file:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy:login-home:start-listening-login:upload-a-file-login:start-lis-2-login:stop-2-log:res-log-2:trans-2-log:stop-lis-1-login:results-1-log:transcript-1-log:profile:profile-1:profile-2"/>
+    <file name="jquery.watch.js" crc="437028206" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy:login-home:about-us-copy:start-listening-login:upload-a-file-login:start-lis-2-login:stop-2-log:res-log-2:trans-2-log:stop-lis-1-login:results-1-log:transcript-1-log:profile:profile-1:profile-2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy:login-home:about-us-copy:start-listening-login:upload-a-file-login:start-lis-2-login:stop-2-log:res-log-2:trans-2-log:stop-lis-1-login:results-1-log:transcript-1-log:profile:profile-1:profile-2"/>
+    <file name="require.js" crc="4159430777" ref="start-listening:listen-results:stop-listening:index:upload-a-file:about-us:log-in:transcript:start-listening-copy:stop-listening-copy:listen-results-copy:transcript-copy:login-home:about-us-copy:start-listening-login:upload-a-file-login:start-lis-2-login:stop-2-log:res-log-2:trans-2-log:stop-lis-1-login:results-1-log:transcript-1-log:profile:profile-1:profile-2"/>
   </folder>
   <folder name="images">
     <file name="u2992-4.png" crc="520502638" ref="start-listening"/>
@@ -37,17 +51,46 @@
     <file name="u3384-4.png" crc="520502638" ref="stop-listening-copy"/>
     <file name="u3429-4.png" crc="520502638" ref="listen-results-copy"/>
     <file name="u3493-4.png" crc="520502638" ref="transcript-copy"/>
+    <file name="u3705-4.png" crc="245547931" ref="login-home"/>
+    <file name="u3729-4.png" crc="405480159" ref="login-home"/>
+    <file name="pasted image 225x225.jpg" crc="219349446" seo="true" ref="login-home:profile"/>
+    <file name="u3882-4.png" crc="520502638" ref="start-listening-login"/>
+    <file name="u3959-4.png" crc="520502638" ref="upload-a-file-login"/>
+    <file name="u3971-4.png" crc="520502638" ref="start-lis-2-login"/>
+    <file name="u4074-4.png" crc="520502638" ref="stop-2-log"/>
+    <file name="u4122-4.png" crc="520502638" ref="res-log-2"/>
+    <file name="u4214-4.png" crc="520502638" ref="trans-2-log"/>
+    <file name="u4229-4.png" crc="520502638" ref="stop-lis-1-login"/>
+    <file name="u4346-4.png" crc="520502638" ref="results-1-log"/>
+    <file name="u4392-4.png" crc="520502638" ref="transcript-1-log"/>
+    <file name="u4442-4.png" crc="520502638" ref="profile"/>
+    <file name="u4569-4.png" crc="520502638" ref="profile-1"/>
+    <file name="u4716-4.png" crc="520502638" ref="profile-2"/>
   </folder>
-  <file name="start-listening.html" crc="3830407389" seo="true" mt="1487280912462" redirect="true"/>
-  <file name="listen-results.html" crc="375588375" seo="true" mt="1487281128368" redirect="true"/>
-  <file name="stop-listening.html" crc="4027104432" seo="true" mt="1487280851567" redirect="true"/>
-  <file name="index.html" crc="440460867" seo="true" mt="1487625105081" redirect="true"/>
-  <file name="upload-a-file.html" crc="8768695" seo="true" mt="1487280725117" redirect="true"/>
-  <file name="about-us.html" crc="3770557841" seo="true" mt="1487281378676" redirect="true"/>
-  <file name="log-in.html" crc="4089401127" seo="true" mt="1487281826392" redirect="true"/>
-  <file name="transcript.html" crc="444231785" seo="true" mt="1487281346738" redirect="true"/>
-  <file name="start-listening-copy.html" crc="4179342380" seo="true" mt="1487625018010" redirect="true"/>
-  <file name="stop-listening-copy.html" crc="5244089" seo="true" mt="1487625029976" redirect="true"/>
-  <file name="listen-results-copy.html" crc="4105570891" seo="true" mt="1487625041616" redirect="true"/>
-  <file name="transcript-copy.html" crc="3888562639" seo="true" mt="1487625051991" redirect="true"/>
+  <file name="start-listening.html" crc="4081987780" seo="true" mt="1487885300373" redirect="true"/>
+  <file name="listen-results.html" crc="3804403911" seo="true" mt="1487885435872" redirect="true"/>
+  <file name="stop-listening.html" crc="4037321883" seo="true" mt="1487885363811" redirect="true"/>
+  <file name="index.html" crc="4222625893" seo="true" mt="1487884540701" redirect="true"/>
+  <file name="upload-a-file.html" crc="36081345" seo="true" mt="1487884731029" redirect="true"/>
+  <file name="about-us.html" crc="268533297" seo="true" mt="1487885188884" redirect="true"/>
+  <file name="log-in.html" crc="526622978" seo="true" mt="1487899402190" redirect="true"/>
+  <file name="transcript.html" crc="486163678" seo="true" mt="1487887165847" redirect="true"/>
+  <file name="start-listening-copy.html" crc="31555554" seo="true" mt="1487885288975" redirect="true"/>
+  <file name="stop-listening-copy.html" crc="179324611" seo="true" mt="1487885354398" redirect="true"/>
+  <file name="listen-results-copy.html" crc="158501217" seo="true" mt="1487885414831" redirect="true"/>
+  <file name="transcript-copy.html" crc="4043324076" seo="true" mt="1487885429496" redirect="true"/>
+  <file name="login-home.html" crc="77434939" seo="true" mt="1487899015347" redirect="true"/>
+  <file name="about-us-copy.html" crc="3909495028" seo="true" mt="1487898433253" redirect="true"/>
+  <file name="start-listening-login.html" crc="4162427001" seo="true" mt="1487898552061" redirect="true"/>
+  <file name="upload-a-file-login.html" crc="69879821" seo="true" mt="1487898685999" redirect="true"/>
+  <file name="start-lis-2-login.html" crc="3461227" seo="true" mt="1487898711704" redirect="true"/>
+  <file name="stop-2-log.html" crc="284956119" seo="true" mt="1487898731355" redirect="true"/>
+  <file name="res-log-2.html" crc="277784547" seo="true" mt="1487898784565" redirect="true"/>
+  <file name="trans-2-log.html" crc="236013782" seo="true" mt="1487898834763" redirect="true"/>
+  <file name="stop-lis-1-login.html" crc="182624223" seo="true" mt="1487898580739" redirect="true"/>
+  <file name="results-1-log.html" crc="3946312163" seo="true" mt="1487898596961" redirect="true"/>
+  <file name="transcript-1-log.html" crc="3842077386" seo="true" mt="1487898638757" redirect="true"/>
+  <file name="profile.html" crc="167116847" seo="true" mt="1487898877501" redirect="true"/>
+  <file name="profile-1.html" crc="3878357354" seo="true" mt="1487898903664" redirect="true"/>
+  <file name="profile-2.html" crc="415285211" seo="true" mt="1487898941563" redirect="true"/>
 </manifest>

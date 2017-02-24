@@ -2,73 +2,163 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://smoothtalking.com/index.html</loc>
-    <lastmod>2017-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://smoothtalking.com/listen-results.html</loc>
-    <lastmod>2017-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://smoothtalking.com/stop-listening.html</loc>
-    <lastmod>2017-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://smoothtalking.com/log-in.html</loc>
-    <lastmod>2017-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://smoothtalking.com/upload-a-file.html</loc>
-    <lastmod>2017-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://smoothtalking.com/about-us.html</loc>
-    <lastmod>2017-02-16</lastmod>
+    <lastmod>2017-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://smoothtalking.com/start-listening.html</loc>
-    <lastmod>2017-02-16</lastmod>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/listen-results.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/stop-listening.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/login-home.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/upload-a-file.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/about-us.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/log-in.html</loc>
+    <lastmod>2017-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://smoothtalking.com/transcript.html</loc>
-    <lastmod>2017-02-16</lastmod>
+    <lastmod>2017-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://smoothtalking.com/start-listening-copy.html</loc>
-    <lastmod>2017-02-20</lastmod>
+    <lastmod>2017-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://smoothtalking.com/stop-listening-copy.html</loc>
-    <lastmod>2017-02-20</lastmod>
+    <lastmod>2017-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://smoothtalking.com/listen-results-copy.html</loc>
-    <lastmod>2017-02-20</lastmod>
+    <lastmod>2017-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://smoothtalking.com/transcript-copy.html</loc>
-    <lastmod>2017-02-20</lastmod>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/trans-2-log.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/about-us-copy.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/start-listening-login.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/upload-a-file-login.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/start-lis-2-login.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/stop-2-log.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/res-log-2.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/transcript-1-log.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/stop-lis-1-login.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/results-1-log.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/profile-1.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/profile.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/profile-2.html</loc>
+    <lastmod>2017-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://smoothtalking.com/images/pasted%20image%20225x225.jpg</loc>
+    <lastmod>2017-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

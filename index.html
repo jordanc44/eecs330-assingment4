@@ -16,7 +16,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=447472467" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3910986589" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -69,29 +69,30 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <p>Want to improve your speech? We can help with that</p>
     </div>
     <div class="clearfix colelem" id="u2490"><!-- group -->
-     <div class="clearfix grpelem" id="u2853-7"><!-- content -->
+     <div class="clearfix grpelem" id="u2853-10"><!-- content -->
       <p>Want to improve your daily speech habits?</p>
+      <p>&nbsp;</p>
+      <p>Need to prepare for a job or college interview?</p>
       <p>&nbsp;</p>
       <p>Click Quick Start</p>
      </div>
      <div class="grpelem" id="u2521"><!-- simple frame --></div>
-     <div class="clearfix grpelem" id="u2856-7"><!-- content -->
+     <div class="clearfix grpelem" id="u2856-10"><!-- content -->
       <p>Written a speech you want to practice?</p>
       <p>&nbsp;</p>
-      <p>Click Advanced Start</p>
-     </div>
-     <div class="grpelem" id="u2527"><!-- simple frame --></div>
-     <div class="clearfix grpelem" id="u2859-7"><!-- content -->
-      <p>Need to prepare for an interview?</p>
+      <p>Want to compare what you said to what you wrote?</p>
       <p>&nbsp;</p>
-      <p>Click Quick Start</p>
+      <p>Click Advanced Start</p>
      </div>
     </div>
     <div class="clearfix colelem" id="pbuttonu612"><!-- group -->
      <a class="nonblock nontext Button rounded-corners clearfix grpelem" id="buttonu612" href="start-listening-copy.html"><!-- container box --><div class="clearfix grpelem" id="u2862-4"><!-- content --><p>Quick Start</p></div></a>
      <a class="nonblock nontext Button rounded-corners clearfix grpelem" id="buttonu603" href="upload-a-file.html"><!-- container box --><div class="clearfix grpelem" id="u2840-4"><!-- content --><p>Advanced Start</p></div></a>
     </div>
-    <div class="verticalspacer" data-offset-top="487" data-content-above-spacer="486" data-content-below-spacer="62"></div>
+    <div class="verticalspacer" data-offset-top="520" data-content-above-spacer="520" data-content-below-spacer="62"></div>
+    <div class="browser_width colelem" id="u3615-bw">
+     <div id="u3615"><!-- simple frame --></div>
+    </div>
    </div>
   </div>
   <!-- JS includes -->
@@ -111,6 +112,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.showWidgetsWhenReady();/* body */
