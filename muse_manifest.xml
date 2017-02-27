@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="smoothtalking.com" resolutions="1x" timestamp="1488223745006">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="smoothtalking.com" resolutions="1x" timestamp="1488223888940">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="3910986589" ref="index"/>
@@ -14,7 +14,7 @@
     <file name="transcript-copy.css" crc="4269133987" ref="transcript-copy"/>
     <file name="start-listening-copy.css" crc="4159703020" ref="start-listening-copy"/>
     <file name="start-lis-2-login.css" crc="277329678" ref="start-lis-2-login"/>
-    <file name="stop-2-log.css" crc="352829383" ref="stop-2-log"/>
+    <file name="stop-2-log.css" crc="213735249" ref="stop-2-log"/>
     <file name="stop-lis-1-login.css" crc="3928539158" ref="stop-lis-1-login"/>
     <file name="profile-2.css" crc="504732846" ref="profile-2"/>
     <file name="profile-1.css" crc="3810526973" ref="profile-1"/>
@@ -84,7 +84,7 @@
   <file name="start-listening-login.html" crc="4162427001" seo="true" mt="1487898552061" redirect="true"/>
   <file name="upload-a-file-login.html" crc="69879821" seo="true" mt="1488223703725" redirect="true"/>
   <file name="start-lis-2-login.html" crc="3461227" seo="true" mt="1487898711704" redirect="true"/>
-  <file name="stop-2-log.html" crc="4290836746" seo="true" mt="1488223657445" redirect="true"/>
+  <file name="stop-2-log.html" crc="3958847461" seo="true" mt="1488223864499" redirect="true"/>
   <file name="res-log-2.html" crc="277784547" seo="true" mt="1487898784565" redirect="true"/>
   <file name="trans-2-log.html" crc="236013782" seo="true" mt="1487898834763" redirect="true"/>
   <file name="stop-lis-1-login.html" crc="182624223" seo="true" mt="1487898580739" redirect="true"/>
